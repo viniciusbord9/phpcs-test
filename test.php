@@ -1,7 +1,7 @@
 <?php
 
 $_test = "test";
-if($test == "test") 
+if($_test == "test") 
 {
     echo "test!";
 }
